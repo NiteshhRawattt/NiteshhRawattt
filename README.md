@@ -2,11 +2,19 @@
 
 # Hi 👋, I'm Nitesh Rawat
 
-### 🚀 Backend Developer | AI Enthusiast | B.Tech CSE Student
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7F52FF&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student;Learning+DSA+%26+Backend+Development;Building+AI-Powered+Applications;Creator+of+InsightHub+AI;Always+Learning+Something+New"
+    alt="Typing SVG"
+  />
+</a>
 
-<p>
-Passionate about building scalable backend systems, AI-powered applications, and solving real-world problems through code.
-</p>
+<br>
+
+<img
+  src="https://komarev.com/ghpvc/?username=NiteshhRawattt&label=Profile%20Views&color=7F52FF&style=for-the-badge"
+  alt="Profile Views"
+/>
 
 </div>
 
