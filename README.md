@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/assets/Gemini_Generated_Image_6s7c5x6s7c5x6s7c-clean-clean.png" alt="Nitesh Rawat Banner" width="100%">
+  <img src="assets/banner.png" alt="Nitesh Rawat Banner" width="100%">
 </p>
 
 
