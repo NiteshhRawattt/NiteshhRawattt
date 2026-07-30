@@ -58,4 +58,57 @@
 
 ---
 
-⭐ More sections coming soon...
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img
+  width="49%"
+  src="https://github-readme-stats.vercel.app/api?username=NiteshhRawattt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+  alt="Nitesh's GitHub Stats"
+/>
+
+<img
+  width="49%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiteshhRawattt&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  alt="Most Used Languages"
+/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img
+  width="70%"
+  src="https://streak-stats.demolab.com?user=NiteshhRawattt&theme=tokyonight&hide_border=true"
+  alt="GitHub Streak"
+/>
+
+</div>
+
+---
+
+## 🚀 Featured Project
+
+<div align="center">
+
+<a href="https://github.com/NiteshhRawattt/InsightHub-AI">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=NiteshhRawattt&repo=InsightHub-AI&theme=tokyonight&hide_border=true"
+    alt="InsightHub AI Repository"
+  />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Code. Learn. Build. Repeat.
+
+</div>
