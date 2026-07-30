@@ -37,32 +37,24 @@
 ---
 ## 🌐 Connect With Me
 
-<p align="center">
+<p align="left">
+  <a href="https://www.linkedin.com/in/niteshhrawattt/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  </a>
 
-<a href="https://www.linkedin.com/in/niteshhrawattt/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
-</a>
+  <a href="https://x.com/niteshhrawatt" target="_blank">
+    <img src="https://cdn.simpleicons.org/x/white" height="45" />
+  </a>
 
-&nbsp;&nbsp;
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+  </a>
 
-<a href="https://x.com/niteshhrawatt" target="_blank">
-  <img src="https://cdn.simpleicons.org/x/white" height="40" />
-</a>
-
-&nbsp;&nbsp;
-
-<a href="mailto:nitesh.rawat6390@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="45" />
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://github.com/NiteshhRawattt" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" height="45" />
-</a>
-
-</p>
-
+  <a href="https://github.com/NiteshhRawattt" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="45" />
+  </a>
+</p
+  >
 ---
 
 ## 💻 Tech Stack
