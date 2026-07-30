@@ -41,7 +41,7 @@
 <p align="left">
 
 <!-- LinkedIn -->
-<a href="YOUR_LINKEDIN_URL" target="_blank">
+<a href="https://www.linkedin.com/in/niteshhrawattt/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 
@@ -56,13 +56,45 @@
 
 ## 💻 Tech Stack
 
+### Languages
 <p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,nodejs,react,fastapi,postgres,docker,git,github,linux,vscode" />
+### Backend & Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,react" />
+</p>
 
+### Database & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,docker,git,github,linux" />
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode" />
 </p>
 
 ---
+
+---
+
+## 🚀 Current Focus
+
+- 📚 Data Structures & Algorithms in C++
+- ⚙️ Backend Development with FastAPI and Node.js
+- 🤖 AI-powered applications and LLM integration
+- 🐳 Docker, deployment and cloud fundamentals
+- 🌍 Open-source collaboration and project documentation
+
+---
+
+## 🏆 Certifications & Learning
+
+- IBM SkillsBuild — Getting Started with Generative AI
+- IBM SkillsBuild — Introduction to Cloud Computing
+- Deloitte Australia Technology Job Simulation — Forage
 
 ---
 
@@ -107,4 +139,13 @@
 </div>
 
 ---
+
+
+<div align="center">
+
+### Code. Learn. Build. Repeat.
+
+Thanks for visiting my profile.
+
+</div>
 
