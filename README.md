@@ -35,19 +35,30 @@
 - 🎯 Goal: Software Engineer @ Global Tech Companies
 
 ---
-
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
-<!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/niteshhrawattt/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
 </a>
 
-<!-- Gmail -->
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+&nbsp;&nbsp;
+
+<a href="https://x.com/niteshhrawatt" target="_blank">
+  <img src="https://cdn.simpleicons.org/x/white" height="40" />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="mailto:nitesh.rawat6390@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/NiteshhRawattt" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="45" />
 </a>
 
 </p>
