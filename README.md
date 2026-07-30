@@ -65,26 +65,50 @@
 <div align="center">
 
 <img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api?username=NiteshhRawattt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-  alt="Nitesh's GitHub Stats"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NiteshhRawattt&theme=tokyonight"
+  width="95%"
+  alt="GitHub Contribution Summary"
+/>
+
+<br><br>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NiteshhRawattt&theme=tokyonight"
+  width="47%"
+  alt="Repositories Per Language"
 />
 
 <img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiteshhRawattt&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-  alt="Most Used Languages"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NiteshhRawattt&theme=tokyonight"
+  width="47%"
+  alt="Most Commit Language"
+/>
+
+<br><br>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NiteshhRawattt&theme=tokyonight"
+  width="47%"
+  alt="GitHub Stats"
+/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NiteshhRawattt&theme=tokyonight&utcOffset=5.5"
+  width="47%"
+  alt="Productive Time"
 />
 
 </div>
 
-<br>
+---
+
+## 🔥 Contribution Streak
 
 <div align="center">
 
 <img
-  width="70%"
   src="https://streak-stats.demolab.com?user=NiteshhRawattt&theme=tokyonight&hide_border=true"
+  width="70%"
   alt="GitHub Streak"
 />
 
@@ -96,11 +120,12 @@
 
 <div align="center">
 
+### [InsightHub AI](https://github.com/NiteshhRawattt/InsightHub-AI)
+
+**An AI-powered document intelligence platform built using modern frontend, backend and AI technologies.**
+
 <a href="https://github.com/NiteshhRawattt/InsightHub-AI">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=NiteshhRawattt&repo=InsightHub-AI&theme=tokyonight&hide_border=true"
-    alt="InsightHub AI Repository"
-  />
+  <img src="https://img.shields.io/badge/View%20Project-InsightHub%20AI-7F52FF?style=for-the-badge&logo=github"/>
 </a>
 
 </div>
