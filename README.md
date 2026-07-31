@@ -17,10 +17,7 @@
 
 <br>
 
-<img
-  src="https://komarev.com/ghpvc/?username=NiteshhRawattt&label=Profile%20Views&color=7F52FF&style=for-the-badge"
-  alt="Profile Views"
-/>
+
 
 </div>
 
